@@ -1,6 +1,20 @@
-# DCF-Model-of-Britannia-Industries-limited
-A complete financial valuation model of Britannia including peer comparison, WACC, DCF, and Real time buy or sell indicator (Acc. to latest share price).”
+# DCF-Model-of-Britannia-Industries-limited 
+This project presents a complete valuation of Britannia Industries Ltd. using a structured DCF (Discounted Cash Flow) model, supported by 3-statement forecasting, ratio analysis, and peer comparison. It also shows real time Share Price Data of Britannia Industries for Real time comparison (which updates every minute).
+The objective is to estimate Britannia’s intrinsic value per share and compare it with the current market price to understand the investment potential.
 
+The model includes:
+
+Detailed Revenue Projections based on historical trends and margin assumptions
+
+Forecasted Income Statement, Balance Sheet, and Cash Flow Statement
+
+Calculation of FCFF, WACC, Terminal Value, Enterprise Value
+
+DCF Valuation with Sensitivity Analysis for WACC and Terminal Growth
+
+Peer Comparison using P/E, EV/EBITDA, and other market multiples
+
+Final Intrinsic Value Output with upside/downside analysis
 ---
 
 ## 📈 Key Valuation Summary 
@@ -49,6 +63,11 @@ A complete financial valuation model of Britannia including peer comparison, WAC
 ---
 
 [DCF] <img width="838" height="600" alt="image" src="https://github.com/user-attachments/assets/6dcc1456-7a67-4bed-b679-6e7cb242bdee" />
+
+---
+
+[Peer Comparison] <img width="779" height="624" alt="image" src="https://github.com/user-attachments/assets/15c58362-9df5-4968-9b9e-4f517e210b7e" />
+
 
 ---
 
